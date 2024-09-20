@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kamen nužky papir", "kamen nužky papir.csproj", "{22E0EA24-A7E8-436B-B9EC-DDCF0A57720A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22E0EA24-A7E8-436B-B9EC-DDCF0A57720A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22E0EA24-A7E8-436B-B9EC-DDCF0A57720A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22E0EA24-A7E8-436B-B9EC-DDCF0A57720A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22E0EA24-A7E8-436B-B9EC-DDCF0A57720A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {434F54DF-81C8-45F4-B714-5420B0E90D46}
+	EndGlobalSection
+EndGlobal
