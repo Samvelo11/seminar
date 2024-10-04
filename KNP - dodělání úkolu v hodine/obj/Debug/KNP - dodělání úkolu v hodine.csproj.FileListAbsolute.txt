@@ -1,0 +1,7 @@
+H:\3D\Martirosjan\AA PROGRAMOVANÍ\KNP - dodělání úkolu v hodine\bin\Debug\KNP - dodělání úkolu v hodine.exe.config
+H:\3D\Martirosjan\AA PROGRAMOVANÍ\KNP - dodělání úkolu v hodine\bin\Debug\KNP - dodělání úkolu v hodine.exe
+H:\3D\Martirosjan\AA PROGRAMOVANÍ\KNP - dodělání úkolu v hodine\bin\Debug\KNP - dodělání úkolu v hodine.pdb
+H:\3D\Martirosjan\AA PROGRAMOVANÍ\KNP - dodělání úkolu v hodine\obj\Debug\KNP - dodělání úkolu v hodine.csproj.AssemblyReference.cache
+H:\3D\Martirosjan\AA PROGRAMOVANÍ\KNP - dodělání úkolu v hodine\obj\Debug\KNP - dodělání úkolu v hodine.csproj.CoreCompileInputs.cache
+H:\3D\Martirosjan\AA PROGRAMOVANÍ\KNP - dodělání úkolu v hodine\obj\Debug\KNP - dodělání úkolu v hodine.exe
+H:\3D\Martirosjan\AA PROGRAMOVANÍ\KNP - dodělání úkolu v hodine\obj\Debug\KNP - dodělání úkolu v hodine.pdb
