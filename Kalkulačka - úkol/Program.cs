@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.Eventing.Reader;
 using System.Linq;
 using System.Runtime.Remoting.Messaging;
 using System.Text;
@@ -34,7 +35,7 @@ namespace Kalkulačka___úkol
             string firstNumImput = Console.ReadLine(); //zadání vstupu cisel
 
             float firstNum;
-            if (!float.TryParse(firstNumImput, out firstNum)) //TryParse ověruje hodnotu desetinnych cisel na tuto část jsem použil kod z chat gpt
+            if (!float.TryParse(firstNumImput, out firstNum)) //TryParse ověruje hodnotu desetinnych cisel na tuto jedinou část jsem použil kod z chat gpt
             {
                 Console.WriteLine("Zadal jsi neplatne cislo.");
                 return;
@@ -48,35 +49,53 @@ namespace Kalkulačka___úkol
                 return;
             }
 
+
             Console.WriteLine("Zadej pocetní operaci: +, -, *, /"); //vstup pro pocetni operaci
             string operace = Console.ReadLine();
-
             float answer = 0;
 
-            if (operace == "+")
+            if (operace == "+" || operace == "-" || operace == "*" || operace == "/") // hlida pokud zadam spatnou operaci
             {
-                answer = firstNum + secondNum;
-            }
-            else if (operace == "-")
-            {
-                answer = firstNum - secondNum;
-            }
-            else if (operace == "*")
-            {
-                answer = firstNum * secondNum;
-            }
-            else if (operace == "/")
-            {
-               if (secondNum == 0)
+
+                while (answer != 0) //hlida zadanou hodnotu
                 {
-                    Console.WriteLine("Nelze dělit nulou!");
+                    Console.WriteLine("Neplatná hodnota");
+
+                    if (operace == "+") //pocetni operace
+                    {
+                        answer = firstNum + secondNum;
+                    }
+                    else if (operace == "-")
+                    {
+                        answer = firstNum - secondNum;
+                    }
+                    else if (operace == "*")
+                    {
+                        answer = firstNum * secondNum;
+                    }
+                    else if (operace == "/")
+                    {
+                        if (secondNum == 0) //nelze delit nulou
+                        {
+                            Console.WriteLine("Nelze dělit nulou!");
+                        }
+                        answer = firstNum / secondNum;
+                        Console.WriteLine(answer);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Spatny znak.");
+                    }
                 }
-                answer = firstNum / secondNum;   
+
+            }
+            else
+            {
+                Console.WriteLine("Zadal jsi neplatou hodnotu!");
             }
 
-            Console.WriteLine(answer);
 
-            Console.ReadKey();
+            Console.ReadKey(); //aby se program hned nevyhnul
         }
     }
 }
