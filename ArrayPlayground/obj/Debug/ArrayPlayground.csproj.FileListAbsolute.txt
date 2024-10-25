@@ -1,0 +1,7 @@
+C:\Users\martirosjan\source\repos\ArrayPlayground\bin\Debug\ArrayPlayground.exe.config
+C:\Users\martirosjan\source\repos\ArrayPlayground\bin\Debug\ArrayPlayground.exe
+C:\Users\martirosjan\source\repos\ArrayPlayground\bin\Debug\ArrayPlayground.pdb
+C:\Users\martirosjan\source\repos\ArrayPlayground\obj\Debug\ArrayPlayground.csproj.AssemblyReference.cache
+C:\Users\martirosjan\source\repos\ArrayPlayground\obj\Debug\ArrayPlayground.csproj.CoreCompileInputs.cache
+C:\Users\martirosjan\source\repos\ArrayPlayground\obj\Debug\ArrayPlayground.exe
+C:\Users\martirosjan\source\repos\ArrayPlayground\obj\Debug\ArrayPlayground.pdb
