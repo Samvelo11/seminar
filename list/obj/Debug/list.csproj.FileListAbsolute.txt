@@ -1,0 +1,7 @@
+C:\Users\martirosjan\source\repos\list\bin\Debug\list.exe.config
+C:\Users\martirosjan\source\repos\list\bin\Debug\list.exe
+C:\Users\martirosjan\source\repos\list\bin\Debug\list.pdb
+C:\Users\martirosjan\source\repos\list\obj\Debug\list.csproj.AssemblyReference.cache
+C:\Users\martirosjan\source\repos\list\obj\Debug\list.csproj.CoreCompileInputs.cache
+C:\Users\martirosjan\source\repos\list\obj\Debug\list.exe
+C:\Users\martirosjan\source\repos\list\obj\Debug\list.pdb
