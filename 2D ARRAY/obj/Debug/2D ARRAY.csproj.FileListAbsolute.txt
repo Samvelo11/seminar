@@ -1,0 +1,7 @@
+C:\Users\martirosjan\source\repos\2D ARRAY\bin\Debug\2D ARRAY.exe.config
+C:\Users\martirosjan\source\repos\2D ARRAY\bin\Debug\2D ARRAY.exe
+C:\Users\martirosjan\source\repos\2D ARRAY\bin\Debug\2D ARRAY.pdb
+C:\Users\martirosjan\source\repos\2D ARRAY\obj\Debug\2D ARRAY.csproj.AssemblyReference.cache
+C:\Users\martirosjan\source\repos\2D ARRAY\obj\Debug\2D ARRAY.csproj.CoreCompileInputs.cache
+C:\Users\martirosjan\source\repos\2D ARRAY\obj\Debug\2D ARRAY.exe
+C:\Users\martirosjan\source\repos\2D ARRAY\obj\Debug\2D ARRAY.pdb
