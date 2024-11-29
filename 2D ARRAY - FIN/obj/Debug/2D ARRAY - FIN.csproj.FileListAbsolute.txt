@@ -1,0 +1,7 @@
+C:\Users\martirosjan\source\repos\2D ARRAY - FIN\bin\Debug\2D ARRAY - FIN.exe.config
+C:\Users\martirosjan\source\repos\2D ARRAY - FIN\bin\Debug\2D ARRAY - FIN.exe
+C:\Users\martirosjan\source\repos\2D ARRAY - FIN\bin\Debug\2D ARRAY - FIN.pdb
+C:\Users\martirosjan\source\repos\2D ARRAY - FIN\obj\Debug\2D ARRAY - FIN.csproj.AssemblyReference.cache
+C:\Users\martirosjan\source\repos\2D ARRAY - FIN\obj\Debug\2D ARRAY - FIN.csproj.CoreCompileInputs.cache
+C:\Users\martirosjan\source\repos\2D ARRAY - FIN\obj\Debug\2D ARRAY - FIN.exe
+C:\Users\martirosjan\source\repos\2D ARRAY - FIN\obj\Debug\2D ARRAY - FIN.pdb
