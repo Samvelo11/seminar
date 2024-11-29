@@ -1,0 +1,7 @@
+C:\Users\martirosjan\source\repos\Lode - zacatek\bin\Debug\Lode - zacatek.exe.config
+C:\Users\martirosjan\source\repos\Lode - zacatek\bin\Debug\Lode - zacatek.exe
+C:\Users\martirosjan\source\repos\Lode - zacatek\bin\Debug\Lode - zacatek.pdb
+C:\Users\martirosjan\source\repos\Lode - zacatek\obj\Debug\Lode - zacatek.csproj.AssemblyReference.cache
+C:\Users\martirosjan\source\repos\Lode - zacatek\obj\Debug\Lode - zacatek.csproj.CoreCompileInputs.cache
+C:\Users\martirosjan\source\repos\Lode - zacatek\obj\Debug\Lode - zacatek.exe
+C:\Users\martirosjan\source\repos\Lode - zacatek\obj\Debug\Lode - zacatek.pdb
