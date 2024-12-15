@@ -1,0 +1,7 @@
+C:\Users\nicol\source\repos\SHIPSGAME - ukol\bin\Debug\SHIPSGAME - ukol.exe.config
+C:\Users\nicol\source\repos\SHIPSGAME - ukol\bin\Debug\SHIPSGAME - ukol.exe
+C:\Users\nicol\source\repos\SHIPSGAME - ukol\bin\Debug\SHIPSGAME - ukol.pdb
+C:\Users\nicol\source\repos\SHIPSGAME - ukol\obj\Debug\SHIPSGAME - ukol.csproj.AssemblyReference.cache
+C:\Users\nicol\source\repos\SHIPSGAME - ukol\obj\Debug\SHIPSGAME - ukol.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\SHIPSGAME - ukol\obj\Debug\SHIPSGAME - ukol.exe
+C:\Users\nicol\source\repos\SHIPSGAME - ukol\obj\Debug\SHIPSGAME - ukol.pdb
