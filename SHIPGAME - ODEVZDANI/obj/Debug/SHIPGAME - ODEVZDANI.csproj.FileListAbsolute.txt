@@ -1,0 +1,7 @@
+C:\Users\samom\source\repos\SHIPGAME - ODEVZDANI\bin\Debug\SHIPGAME - ODEVZDANI.exe.config
+C:\Users\samom\source\repos\SHIPGAME - ODEVZDANI\bin\Debug\SHIPGAME - ODEVZDANI.exe
+C:\Users\samom\source\repos\SHIPGAME - ODEVZDANI\bin\Debug\SHIPGAME - ODEVZDANI.pdb
+C:\Users\samom\source\repos\SHIPGAME - ODEVZDANI\obj\Debug\SHIPGAME - ODEVZDANI.csproj.AssemblyReference.cache
+C:\Users\samom\source\repos\SHIPGAME - ODEVZDANI\obj\Debug\SHIPGAME - ODEVZDANI.csproj.CoreCompileInputs.cache
+C:\Users\samom\source\repos\SHIPGAME - ODEVZDANI\obj\Debug\SHIPGAME - ODEVZDANI.exe
+C:\Users\samom\source\repos\SHIPGAME - ODEVZDANI\obj\Debug\SHIPGAME - ODEVZDANI.pdb
