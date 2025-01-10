@@ -1,0 +1,7 @@
+C:\Users\martirosjan\source\repos\Class program\bin\Debug\Class program.exe.config
+C:\Users\martirosjan\source\repos\Class program\bin\Debug\Class program.exe
+C:\Users\martirosjan\source\repos\Class program\bin\Debug\Class program.pdb
+C:\Users\martirosjan\source\repos\Class program\obj\Debug\Class program.csproj.AssemblyReference.cache
+C:\Users\martirosjan\source\repos\Class program\obj\Debug\Class program.csproj.CoreCompileInputs.cache
+C:\Users\martirosjan\source\repos\Class program\obj\Debug\Class program.exe
+C:\Users\martirosjan\source\repos\Class program\obj\Debug\Class program.pdb
