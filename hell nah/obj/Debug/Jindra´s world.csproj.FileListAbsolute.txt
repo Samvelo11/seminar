@@ -1,0 +1,2 @@
+C:\Users\samom\source\repos\Jindra´s world\obj\Debug\Jindra´s world.csproj.AssemblyReference.cache
+C:\Users\samom\source\repos\Jindra´s world\obj\Debug\Jindra´s world.csproj.CoreCompileInputs.cache
