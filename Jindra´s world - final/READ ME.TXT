@@ -1,0 +1,3 @@
+Pri vytvareni programu jsem v nekterych blokach pouzil chat gpt.
+program ve vysledku neni to co jsem puvodne planoval, hodne veci neni dodelano, ale s vysledkem jsem velmi spoko :)
+jeden ze zdroju inspirace byl blackjack program, ktery jsem nasel na GitHubu, diky tomu jsem pouzil tolik trid v programku

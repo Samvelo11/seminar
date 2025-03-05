@@ -1,0 +1,7 @@
+C:\Users\samom\source\repos\Jindra´s world - final\bin\Debug\Jindra´s world - final.exe.config
+C:\Users\samom\source\repos\Jindra´s world - final\bin\Debug\Jindra´s world - final.exe
+C:\Users\samom\source\repos\Jindra´s world - final\bin\Debug\Jindra´s world - final.pdb
+C:\Users\samom\source\repos\Jindra´s world - final\obj\Debug\Jindra´s world - final.csproj.AssemblyReference.cache
+C:\Users\samom\source\repos\Jindra´s world - final\obj\Debug\Jindra´s world - final.csproj.CoreCompileInputs.cache
+C:\Users\samom\source\repos\Jindra´s world - final\obj\Debug\Jindra´s world - final.exe
+C:\Users\samom\source\repos\Jindra´s world - final\obj\Debug\Jindra´s world - final.pdb
