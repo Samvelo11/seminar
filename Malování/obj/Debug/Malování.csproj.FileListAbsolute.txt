@@ -1,0 +1,10 @@
+C:\Users\samom\source\repos\Malování\bin\Debug\Malování.exe.config
+C:\Users\samom\source\repos\Malování\bin\Debug\Malování.exe
+C:\Users\samom\source\repos\Malování\bin\Debug\Malování.pdb
+C:\Users\samom\source\repos\Malování\obj\Debug\Malování.csproj.AssemblyReference.cache
+C:\Users\samom\source\repos\Malování\obj\Debug\Malování.Form.resources
+C:\Users\samom\source\repos\Malování\obj\Debug\Malování.Properties.Resources.resources
+C:\Users\samom\source\repos\Malování\obj\Debug\Malování.csproj.GenerateResource.cache
+C:\Users\samom\source\repos\Malování\obj\Debug\Malování.csproj.CoreCompileInputs.cache
+C:\Users\samom\source\repos\Malování\obj\Debug\Malování.exe
+C:\Users\samom\source\repos\Malování\obj\Debug\Malování.pdb
